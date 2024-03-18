@@ -1,0 +1,14 @@
+
+
+// number
+// string 
+//null stand alone value
+//boolean means true or false
+//undefined =>
+// symbol => unique
+
+//object 
+
+let name = "taiyab"
+console.log(name)
+
